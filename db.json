@@ -1,14 +1,4 @@
 {
-    "PieChart": [
-        {
-            "y1": 120,
-            "y2": 40
-        }
-    ],
-    "NestedBarChart": [
-        {
-            "x": 100
-        }
-    ]
+    "number" : 22
     
 }
